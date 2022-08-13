@@ -1,4 +1,5 @@
-# Python Reference (Reference Links)
+# Python (Reference Links)
+Sources for [my own reference (Python)](https://github.com/adamszymanowski/python-reference/blob/main/python.md)
 
 ## Keywords
 [keyword list](https://www.programiz.com/python-programming/keyword-list)

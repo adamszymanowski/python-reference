@@ -1,5 +1,5 @@
-# Python Reference
-This is my own guide to Python, that I will use as my own reference. It's mostly based on [Python Standard Library official documentation](https://docs.python.org/3/library/), and in some cases I will quote this documentation directly.
+# Python
+Reference for python (without built-in modules, this in a separate file). This means keywords, built-int functions, types, etc.
 
 ## Keywords
 [keywords documentation](https://docs.python.org/pl/3/reference/lexical_analysis.html#keywords)
