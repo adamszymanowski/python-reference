@@ -1,0 +1,21 @@
+# Python Reference (Reference Links)
+
+## Keywords
+[keyword list](https://www.programiz.com/python-programming/keyword-list)
+- [import, as](https://docs.python.org/3/reference/simple_stmts.html#import)
+- [boolean operations](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+- [assert](https://docs.python.org/3/reference/simple_stmts.html?highlight=assert#the-assert-statement)
+- [assert keyword](https://www.geeksforgeeks.org/python-assert-keyword/)
+- [await](https://docs.python.org/3/reference/expressions.html#await)
+- [control flow, break, continue](https://docs.python.org/3/tutorial/controlflow.html)
+- [define class](https://docs.python.org/3/tutorial/classes.html?highlight=class#class-definition-syntax)
+- [defining functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+- [del](https://www.programiz.com/python-programming/del)
+- [handling exeptions](https://docs.python.org/3/tutorial/errors.html#handling-exceptions)
+  * [exception handling](https://www.programiz.com/python-programming/exception-handling)
+- [for](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+  * [for loop](https://www.programiz.com/python-programming/for-loop)
+- [global](https://docs.python.org/3/reference/simple_stmts.html?highlight=global#the-global-statement)
+  * [global keyword](https://www.programiz.com/python-programming/global-keyword)
+
+- [True, False, None](https://docs.python.org/3/library/constants.html?highlight=false#False)
