@@ -54,7 +54,7 @@ When exception occurs then do this
 
 `finnaly`
 
-Whether exception occurs or not do this no matter what
+Whether exception happens or not do this no matter what
 
 `for`
 
@@ -62,7 +62,7 @@ Iterate over items of sequence (or iterable)
 
 `from`
 
-Import specific part of a module
+Import specific parts of a module
 
 `global`
 
@@ -70,11 +70,11 @@ Inside a code block declare a variable as `global` so it can be modified from th
 
 `if`
 
-Condition check.
+Condition check
 
 `import`
 
-Import a module.
+Import a module
 
 `in`
 1. Check whether a sequence contains an element
@@ -82,7 +82,7 @@ Import a module.
 
 `is`
 
-Check object identity (whether it's the same object).
+Check object identity (whether it's the same object)
 
 
 
@@ -93,7 +93,7 @@ Check object identity (whether it's the same object).
 
 
 `not`
-Boolean not.
+Boolean not
 
 `or`
 Boolean or. This is a short-circuit operator, so it only evaluates the second argument if the first one is false
