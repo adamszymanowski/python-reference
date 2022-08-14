@@ -89,6 +89,7 @@ Check object identity (whether it's the same object)
 Create short anonymous function
 
 `nonlocal`
+
 Inside a nested function declare a variable as `nonlocal` so it can be modified (it must refer to variable in first outer function)
 
 `not`
@@ -126,8 +127,7 @@ With an expression as a variable do this (context manager)
 
 `yield`
 
-A function which returns a generator iterator.
-Usable in a for-loop or that can be retrieved one at a time with the `.next()` function.
+Pause here and return (a generator) to caller
 
 `True`
 
