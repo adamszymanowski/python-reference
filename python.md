@@ -66,7 +66,7 @@ Import specific parts of a module
 
 `global`
 
-Inside a code block declare a variable as `global` so it can be modified from the inside 
+Inside a function declare a variable as `global` so it can be modified from the inside
 
 `if`
 
@@ -84,40 +84,50 @@ Import a module
 
 Check object identity (whether it's the same object)
 
-
-
 `lambda`
 
+Create short anonymous function
 
 `nonlocal`
-
+Inside a nested function declare a variable as `nonlocal` so it can be modified (it must refer to variable in first outer function)
 
 `not`
+
 Boolean not
 
 `or`
+
 Boolean or. This is a short-circuit operator, so it only evaluates the second argument if the first one is false
 
 `pass`
 
+This code block does nothing.
 
 `raise`
 
+Raise an exception or re-raise current active exception
 
 `return`
 
+Exit a function and return a value
 
 `try`
 
+Try this, but when exception occurs, go to `except` block
 
 `while`
 
+While loop
 
 `with`
+
+With an expression as a variable do this (context manager)
 
 
 `yield`
 
+A function which returns a generator iterator.
+Usable in a for-loop or that can be retrieved one at a time with the `.next()` function.
 
 `True`
 
@@ -130,10 +140,6 @@ The false value of the bool type
 `None`
 
 An object frequently used to represent the absence of a value, as when default arguments are not passed to a function.
-
-
-
-
 
 
 

@@ -18,5 +18,12 @@ Sources for [my own reference (Python)](https://github.com/adamszymanowski/pytho
   * [for loop](https://www.programiz.com/python-programming/for-loop)
 - [global](https://docs.python.org/3/reference/simple_stmts.html?highlight=global#the-global-statement)
   * [global keyword](https://www.programiz.com/python-programming/global-keyword)
+- [lambda](https://docs.python.org/3/tutorial/controlflow.html?highlight=lambda#lambda-expressions)
+- [pass](https://docs.python.org/3/reference/simple_stmts.html?highlight=nonlocal#the-pass-statement)
+  * [pass statement](https://www.programiz.com/python-programming/pass-statement)
+- [raise](https://docs.python.org/3/reference/simple_stmts.html?highlight=nonlocal#the-raise-statement)
+- [try](https://docs.python.org/3/reference/compound_stmts.html?highlight=try#the-try-statement)
+- [with](https://docs.python.org/3/reference/compound_stmts.html?highlight=try#the-with-statement)
+- [yield](https://docs.python.org/3/glossary.html#term-generator)
 
 - [True, False, None](https://docs.python.org/3/library/constants.html?highlight=false#False)
