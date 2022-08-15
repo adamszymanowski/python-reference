@@ -25,5 +25,14 @@ Sources for [my own reference (Python)](https://github.com/adamszymanowski/pytho
 - [try](https://docs.python.org/3/reference/compound_stmts.html?highlight=try#the-try-statement)
 - [with](https://docs.python.org/3/reference/compound_stmts.html?highlight=try#the-with-statement)
 - [yield](https://docs.python.org/3/glossary.html#term-generator)
-
 - [True, False, None](https://docs.python.org/3/library/constants.html?highlight=false#False)
+
+## Built-in functions
+[built-in functions (docs)](https://docs.python.org/3/library/functions.html)
+- [built-in functions (programiz)](https://www.programiz.com/python-programming/methods/built-in/abs)
+
+## Built-In Types
+[stdtypes](https://docs.python.org/3/library/stdtypes.html#)
+
+## Format Specification Mini-Language
+[Format Specification Mini-Language](https://docs.python.org/3/library/string.html#formatspec)

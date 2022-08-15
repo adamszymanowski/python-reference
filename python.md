@@ -139,9 +139,51 @@ The false value of the bool type
 
 `None`
 
-An object frequently used to represent the absence of a value, as when default arguments are not passed to a function.
+Represents "no value"
 
 
 
 ## Built-in functions
 [built-in functions documentation](https://docs.python.org/3/library/functions.html)
+
+`abs()`
+
+Return the absolute value of a number
+
+`aiter()`
+
+Return an asynchronous iterator or asynchronous iterable
+
+`all()`
+
+Return `True` if all elements in iterable are true or if iterable is empty
+
+`anext()`
+
+When awaited, return the next item from asynchronous iterable
+
+`any()`
+
+Return `True` if any element of iterable is true. 
+If the iterable is empty, return `False`
+
+
+`ascii()`
+
+As `repr()`, return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by `repr()` using `\x`, `\u`, or `\U` escapes
+
+`bin()`
+
+Convert an integer number to a binary string prefixed with `0b`
+
+`bool(x)`
+
+Return a Boolean value, either `True` or `False`. `x` is converted using the standard truth testing procedure. 
+
+`breakpoint()`
+
+This function drops you into the debugger at the call site.
+
+`bytearray()`
+
+Return a new array of bytes
