@@ -1,8 +1,3 @@
-# Numpy
-[NumPy API Reference](https://numpy.org/doc/stable/reference/index.html)
-
-# Routines
-[Routines](https://numpy.org/doc/stable/reference/routines.html)
 
 ## Array Creation Routines
 
