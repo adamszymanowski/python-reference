@@ -31,4 +31,9 @@ To track what examples were already done.
   * [Segment huaman cells (in mitosis)](https://scikit-image.org/docs/stable/auto_examples/applications/plot_human_mitosis.html#sphx-glr-auto-examples-applications-plot-human-mitosis-py)
 - Examples using `skimage.color.rgb2gray`
   * [Block views on images/arrays](https://scikit-image.org/docs/stable/auto_examples/numpy_operations/plot_view_as_blocks.html#sphx-glr-auto-examples-numpy-operations-plot-view-as-blocks-py)
-  
+  * [RGB to grayscale](https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_rgb_to_gray.html#sphx-glr-auto-examples-color-exposure-plot-rgb-to-gray-py)
+  * [Adapting gray-scale filters to RGB images](https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_adapt_rgb.html#sphx-glr-auto-examples-color-exposure-plot-adapt-rgb-py)
+  * [Ridge operators](https://scikit-image.org/docs/stable/auto_examples/edges/plot_ridge_filter.html#sphx-glr-auto-examples-edges-plot-ridge-filter-py)
+  * [Active Contour Method](https://scikit-image.org/docs/stable/auto_examples/edges/plot_active_contours.html#sphx-glr-auto-examples-edges-plot-active-contours-py)
+  * [Circular and Elliptical Hough Transforms](https://scikit-image.org/docs/stable/auto_examples/edges/plot_circular_elliptical_hough_transform.html#sphx-glr-auto-examples-edges-plot-circular-elliptical-hough-transform-py)
+  * [Rescale, resize, and downscale](https://scikit-image.org/docs/stable/auto_examples/transform/plot_rescale.html#sphx-glr-auto-examples-transform-plot-rescale-py)
