@@ -37,3 +37,6 @@ To track what examples were already done.
   * [Active Contour Method](https://scikit-image.org/docs/stable/auto_examples/edges/plot_active_contours.html#sphx-glr-auto-examples-edges-plot-active-contours-py)
   * [Circular and Elliptical Hough Transforms](https://scikit-image.org/docs/stable/auto_examples/edges/plot_circular_elliptical_hough_transform.html#sphx-glr-auto-examples-edges-plot-circular-elliptical-hough-transform-py)
   * [Rescale, resize, and downscale](https://scikit-image.org/docs/stable/auto_examples/transform/plot_rescale.html#sphx-glr-auto-examples-transform-plot-rescale-py)
+  * [Fundamental Matrix Estimation](https://scikit-image.org/docs/stable/auto_examples/transform/plot_fundamental_matrix.html#sphx-glr-auto-examples-transform-plot-fundamental-matrix-py)
+  * [Robust matching using RANSAC](https://scikit-image.org/docs/stable/auto_examples/transform/plot_matching.html#sphx-glr-auto-examples-transform-plot-matching-py)
+  * [Registation using optical flow](https://scikit-image.org/docs/stable/auto_examples/registration/plot_opticalflow.html#sphx-glr-auto-examples-registration-plot-opticalflow-py)
